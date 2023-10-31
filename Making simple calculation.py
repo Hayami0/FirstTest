@@ -1,8 +1,8 @@
 i = 0 
-x = 1
-y = 2
-z = 3
+x = 9
+y = 88
+z = 5
 
-x + y = a
+a= (x + y )
 
 print(a)
